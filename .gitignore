@@ -1,0 +1,3 @@
+# Ignore all contents of node_modules
+node_modules/
+test.md
